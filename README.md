@@ -14,7 +14,7 @@ XSSpectra is a simple yet powerful Cross-Site Scripting (XSS) scanner written in
 
 ## Installation
 
-1. Clone the repository:
+1. Clone the repository:s
 
 ```bash
 git clone https://github.com/yourusername/XSSpectra.git
